@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Smiblessed
 - 👀 I’m interested in learning web development
 - 🌱 I’m currently learning javascript at freecodecamp.com
-- 💞️ I’m looking to collaborate on evry course with anyone who is willing to learn together.
+- 💞️ I want to collaborate on every course with anyone willing to learn.
 - 📫 you can send me an email(samitube30@gmail.com). 
 
 <!---
